@@ -1,0 +1,15 @@
+C:\Users\Kiril Lambovski\Desktop\GitHub\TennisScoreApp\TenisScoreAppProject\TenisScoreApp\TennisScoreApp2.0\TennisScoreApp2.0\TennisScoreApp2.0\obj\Debug\net6.0-windows\TennisScoreApp2.0.csproj.AssemblyReference.cache
+C:\Users\Kiril Lambovski\Desktop\GitHub\TennisScoreApp\TenisScoreAppProject\TenisScoreApp\TennisScoreApp2.0\TennisScoreApp2.0\TennisScoreApp2.0\obj\Debug\net6.0-windows\TennisScoreApp2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kiril Lambovski\Desktop\GitHub\TennisScoreApp\TenisScoreAppProject\TenisScoreApp\TennisScoreApp2.0\TennisScoreApp2.0\TennisScoreApp2.0\obj\Debug\net6.0-windows\TennisScoreApp2.0.AssemblyInfoInputs.cache
+C:\Users\Kiril Lambovski\Desktop\GitHub\TennisScoreApp\TenisScoreAppProject\TenisScoreApp\TennisScoreApp2.0\TennisScoreApp2.0\TennisScoreApp2.0\obj\Debug\net6.0-windows\TennisScoreApp2.0.AssemblyInfo.cs
+C:\Users\Kiril Lambovski\Desktop\GitHub\TennisScoreApp\TenisScoreAppProject\TenisScoreApp\TennisScoreApp2.0\TennisScoreApp2.0\TennisScoreApp2.0\obj\Debug\net6.0-windows\TennisScoreApp2.0.csproj.CoreCompileInputs.cache
+C:\Users\Kiril Lambovski\Desktop\GitHub\TennisScoreApp\TenisScoreAppProject\TenisScoreApp\TennisScoreApp2.0\TennisScoreApp2.0\TennisScoreApp2.0\bin\Debug\net6.0-windows\TennisScoreApp2.0.exe
+C:\Users\Kiril Lambovski\Desktop\GitHub\TennisScoreApp\TenisScoreAppProject\TenisScoreApp\TennisScoreApp2.0\TennisScoreApp2.0\TennisScoreApp2.0\bin\Debug\net6.0-windows\TennisScoreApp2.0.deps.json
+C:\Users\Kiril Lambovski\Desktop\GitHub\TennisScoreApp\TenisScoreAppProject\TenisScoreApp\TennisScoreApp2.0\TennisScoreApp2.0\TennisScoreApp2.0\bin\Debug\net6.0-windows\TennisScoreApp2.0.runtimeconfig.json
+C:\Users\Kiril Lambovski\Desktop\GitHub\TennisScoreApp\TenisScoreAppProject\TenisScoreApp\TennisScoreApp2.0\TennisScoreApp2.0\TennisScoreApp2.0\bin\Debug\net6.0-windows\TennisScoreApp2.0.dll
+C:\Users\Kiril Lambovski\Desktop\GitHub\TennisScoreApp\TenisScoreAppProject\TenisScoreApp\TennisScoreApp2.0\TennisScoreApp2.0\TennisScoreApp2.0\bin\Debug\net6.0-windows\TennisScoreApp2.0.pdb
+C:\Users\Kiril Lambovski\Desktop\GitHub\TennisScoreApp\TenisScoreAppProject\TenisScoreApp\TennisScoreApp2.0\TennisScoreApp2.0\TennisScoreApp2.0\obj\Debug\net6.0-windows\TennisScoreApp2.0.dll
+C:\Users\Kiril Lambovski\Desktop\GitHub\TennisScoreApp\TenisScoreAppProject\TenisScoreApp\TennisScoreApp2.0\TennisScoreApp2.0\TennisScoreApp2.0\obj\Debug\net6.0-windows\refint\TennisScoreApp2.0.dll
+C:\Users\Kiril Lambovski\Desktop\GitHub\TennisScoreApp\TenisScoreAppProject\TenisScoreApp\TennisScoreApp2.0\TennisScoreApp2.0\TennisScoreApp2.0\obj\Debug\net6.0-windows\TennisScoreApp2.0.pdb
+C:\Users\Kiril Lambovski\Desktop\GitHub\TennisScoreApp\TenisScoreAppProject\TenisScoreApp\TennisScoreApp2.0\TennisScoreApp2.0\TennisScoreApp2.0\obj\Debug\net6.0-windows\TennisScoreApp2.0.genruntimeconfig.cache
+C:\Users\Kiril Lambovski\Desktop\GitHub\TennisScoreApp\TenisScoreAppProject\TenisScoreApp\TennisScoreApp2.0\TennisScoreApp2.0\TennisScoreApp2.0\obj\Debug\net6.0-windows\ref\TennisScoreApp2.0.dll
